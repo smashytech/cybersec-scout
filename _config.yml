@@ -1,0 +1,5 @@
+title: Cybersec Scout
+description: Emerging security tools gaining traction on GitHub
+theme: jekyll-theme-cayman
+exclude:
+  - seen-repos.json
